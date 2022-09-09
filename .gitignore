@@ -1,0 +1,11 @@
+output/
+figures/
+
+*.json
+*.jsonl
+*.tsv
+*.csv
+*.png
+*.out
+*.log
+*.txt
